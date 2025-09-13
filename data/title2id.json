@@ -1,0 +1,15 @@
+{
+    "Other(其他)": 0,
+    "Professor(教授)": 1,
+    "Researcher(研究员)": 2,
+    "Associate Professor(副教授)": 3,
+    "Assistant Professor(助理教授)": 4,
+    "Professorate Senior Engineer(教授级高级工程师)": 5,
+    "Engineer(工程师)": 6,
+    "Lecturer(讲师)": 7,
+    "Senior Engineer(高级工程师)": 8,
+    "Ph.D(博士生)": 9,
+    "Associate Researcher(副研究员)": 10,
+    "Assistant Researcher(助理研究员)": 11,
+    "Student(学生)": 12
+}

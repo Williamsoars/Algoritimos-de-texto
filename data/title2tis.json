@@ -1,0 +1,91 @@
+{
+    "Professor(教授)": [
+        "Prof",
+        "PROFESOR",
+        "Professor",
+        "Professori",
+        "Professors",
+        "Professora",
+        "professeur",
+        "professeure",
+        "Pro­fes­sor",
+        "Professor emeritus",
+        "Professor Titular",
+        "Professor Emeritu",
+        "Professor Emerita",
+        "chair professor",
+        "Endowed  professor",
+        "Adjunct Professor",
+        "emeritus professor",
+        "full professor",
+        "Full-Professor",
+        "Univ.-Prof.",
+        "Lifetime Professor Emeritus",
+        "Engineering Professor",
+        "Distinguished professor"
+    ],
+    "Associate Professor(副教授)": [
+        "Assoc Prof",
+        "Assoc. Prof.",
+        "Assoc Professor",
+        "Assoc. Professor",
+        "PROFESSORE ASSOCIATO",
+        "Associate Professor",
+        "Associated Professor",
+        "Associate Research Professor",
+        "ADJUNCT ASSOCIATE PROFESSOR"
+    ],
+    "Assistant Professor(助理教授)": [
+        "Professor (Assistant)",
+        "Assistant Professor",
+        "Assistant Research Professor"
+    ],
+    "Lecturer(讲师)": [
+        "Lecturer",
+        "senior lecturer"
+    ],
+    "Professorate Senior Engineer(教授级高级工程师)": [
+        "Professorate Senior Engineer"
+    ],
+    "Senior Engineer(高级工程师)": [
+        "Senior Engineer",
+        "Senior Principal Engineer"
+    ],
+    "Engineer(工程师)": [
+        "Engineer",
+        "an Engineer",
+        "the Engineering",
+        "Distinguished Engineer",
+        "Senior Consulting Engineer",
+        "Senior Staff Engineer",
+        "Principal R&D Engineer"
+    ],
+    "Assistant Engineer(助理工程师)": [
+        "Assistant Engineer"
+    ],
+    "Researcher(研究员)": [
+        "Researcher",
+        "Investigator",
+        "senior research scientist",
+        "Scientific Researcher",
+        "research fellow"
+    ],
+    "Associate Researcher(副研究员)": [
+        "Associate Researcher",
+        "Associate Research Fellow",
+        "research associate"
+    ],
+    "Assistant Researcher(助理研究员)": [
+        "Assistant Researcher",
+        "Assistant Research Fellow",
+        "research associate"
+    ],
+    "Ph.D(博士生)": [
+        "PhD student",
+        "Ph.D. student"
+    ],
+    "Student(学生)": [
+        "Master student",
+        "Bachelor student"
+    ]
+}
